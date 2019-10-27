@@ -3,8 +3,10 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+add introduction here
 
 ## deployment
+add deployement here
 
 ## Purpose
 
